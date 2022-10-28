@@ -22,3 +22,4 @@ Para el análisis de las mismas aplicamos analisis de series temporales, anális
 
 Cada una de los documentos necesarios para la realización del R-Shiny se encuentran en la parte superior del repositorio. En estas encontraremos un README.md con la información necesaria, un informe con una explicación breve de cada una del análisis y proceso y una carpeta llamada website. Esta última contiene ejecutables de la app (server.R, ui.R) y una carpeta llamada "www" con las imágenes para la web.
 	
+Cabe destacar que para la realización del R-shiny se ha utilizado una plantilla de Shiny Gallery "Career PathFinder".
