@@ -6,7 +6,7 @@
 
 - https://www.cajamardatalab.com/datathon-cajamar-universityhack-2021/retos/visualizacion/
 
-# 🍇🥭¿Qué es DEMDATA?🥕🍅
+## 🍇🥭¿Qué es DEMDATA?🥕🍅
 
 <p align="justify">El sistema agroalimentario español está en constante evolución para poder adaptarse a las demandas de los mercados. Demdata es una herramienta interactiva para ayudar a explorar el análisis sobre el comportamiento del mercado español de frutas y hortalizas durante el periodo de la pandemia. En este shiny respondemos las siguientes preguntas:</p>
 
@@ -18,7 +18,7 @@
 
 - https://ebf6wz-elena-marrero.shinyapps.io/DatagriDemdata/
 
-# 🗂 Orden de los documentos
+## 🗂 Orden de los documentos
 
 <p align="justify">Cada una de los documentos necesarios para la realización del R-Shiny se encuentran en la parte superior del repositorio. En estas encontraremos un README.md con la información necesaria, un informe con una explicación breve de cada una del análisis y proceso y una carpeta llamada website. Esta última contiene ejecutables de la app (server.R, ui.R) y una carpeta llamada "www" con las imágenes para la web.</p>
 	
