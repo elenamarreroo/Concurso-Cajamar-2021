@@ -14,31 +14,11 @@ El sistema agroalimentario español está en constante evolución para poder ada
 - ¿Qué efecto ha tenido sobre las importaciones/exportaciones de F&H?¿Ha tenido algún efecto especial el periodo de excepción (Marzo, abril y mayo)?
 - ¿Existe correlación entre los casos COVID-19 y las importaciones/exportaciones a nivel de la Unión Europea?
 
-Para el análisis de las mismas aplicamos analisis de series temporales, análisis exploratorios, análisis gráficos avanzados y correlaciones. Toda esta información se encunetra resumida en un R-Shiny que ofrece visibilidad a nuestros resultados de manera eficiente.
+Para el análisis de las mismas aplicamos analisis de series temporales, análisis exploratorios, análisis gráficos avanzados y correlaciones. Toda esta información se encunetra resumida en un R-Shiny que ofrece visibilidad a nuestros resultados de manera eficiente. A continuación, el link:
 
-# 🗂 
+- https://ebf6wz-elena-marrero.shinyapps.io/DatagriDemdata/
 
-Hemos hecho un web y un pdf. La siguiente lista corresponde a los archivos que entregamos. 
+# 🗂 Orden de los documentos
 
-Los archivos que hemos adjuntados son:
-
-        1. Página web:  
-		- Datasets facilitados por Cajamar
-		- Dataset exportado por nosotros (c)
-		- Dataset para enriquecer los datos (casos_diagnostico_ccaa.csv)
-		
-		- Ejecutables:
-			- server.R
-			- ui.R
-		
-		- www: carpeta con imágenes para la web
-
-
-	2. DEMDATA.pdf: breve descripción del análisis y proceso
+Cada una de los documentos necesarios para la realización del R-Shiny se encuentran en la parte superior del repositorio. En estas encontraremos un README.md con la información necesaria, un informe con una explicación breve de cada una del análisis y proceso y una carpeta llamada website. Esta última contiene ejecutables de la app (server.R, ui.R) y una carpeta llamada "www" con las imágenes para la web.
 	
-
-	3. Imagen:  Imagen portada
-	
-   
-Enlace a la página web:
-	https://ebf6wz-elena-marrero.shinyapps.io/DatagriDemdata/
