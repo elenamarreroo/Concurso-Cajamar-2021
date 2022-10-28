@@ -24,7 +24,6 @@
 	
 <p align="justify">Cabe destacar que para la realización del R-shiny se ha utilizado una plantilla de Shiny Gallery "Career PathFinder".</p>
 
-
 ## 📄 Licencia 
 
 Este repositorio está bajo la Licencia (GNU General Public License v3.0) - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
