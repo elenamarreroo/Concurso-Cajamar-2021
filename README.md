@@ -11,7 +11,7 @@ Proyecto realizado con dos compañeros de clase de la Universitat de València p
 El sistema agroalimentario español está en constante evolución para poder adaptarse a las demandas de los mercados. Demdata es una herramienta interactiva para ayudar a explorar el análisis sobre el comportamiento del mercado español de frutas y hortalizas durante el periodo de la pandemia. En este shiny respondemos las siguientes preguntas 
 
 - ¿De qué manera se ha visto afectado el consumo y la demanda de F&H durante la pandemia con respecto a años anteriores?
-- ¿Qué efecto ha tenido sobre las importaciones/exportaciones de F&H?¿Ha tenido algún efecto especial el periodo de excepción (Marzo, abril y mayo)?
+- ¿Qué efecto ha tenido sobre las importaciones/exportaciones de F&H? ¿Ha tenido algún efecto especial el periodo de excepción (Marzo, abril y mayo)?
 - ¿Existe correlación entre los casos COVID-19 y las importaciones/exportaciones a nivel de la Unión Europea?
 
 Para el análisis de las mismas aplicamos analisis de series temporales, análisis exploratorios, análisis gráficos avanzados y correlaciones. Toda esta información se encunetra resumida en un R-Shiny que ofrece visibilidad a nuestros resultados de manera eficiente. A continuación, el link:
