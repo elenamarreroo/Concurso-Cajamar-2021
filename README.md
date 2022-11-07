@@ -24,6 +24,16 @@
 	
 <p align="justify">Cabe destacar que para la realización del R-shiny se ha utilizado una plantilla de Shiny Gallery "Career PathFinder".</p>
 
+## 👫👭 Equipazo:
+
+<img src="https://user-images.githubusercontent.com/98991004/200296107-410cd03e-560c-4dfe-9ed7-2d2ee982a2b2.png" align="right" width="300" height="200">
+
+Este proyecto ha sido realizado por: 
+
+- Marina Martín Gisbert
+- David de Ramón Ramiro 
+- Elena Marrero Castellano
+
 ## 📄 Licencia 
 
 Este repositorio está bajo la Licencia (GNU General Public License v3.0) - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
